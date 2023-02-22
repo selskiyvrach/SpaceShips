@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a0cce9c3e0495a9edb3149ea074e3a, type: 3}
+  m_Name: ShipBFactory
+  m_EditorClassIdentifier: 
+  _viewPrefab: {fileID: 6638221267250408042, guid: a6981089bf14cd449b531456e4dfb127, type: 3}
+  _modulesSlots: 3
+  _weaponsSlots: 2
+  _hp: 60
+  _shield: 120
